@@ -2,9 +2,9 @@
 
 - I'm an Aspiring **AI engineer**.
 
-- I love **ML**, **SE**, **Cloud**, and **containers**.
+- I love **AI**, **SE**, and **CP**.
 
-- Beyond the world of computer science, my interests extend to **startups** and emerging **chess**.
+- Beyond the world of computer science, my interests extend to **startups** and **chess**.
 
 
 ![views](https://komarev.com/ghpvc/?username=issamelimrany&label=Profile%20views&color=0e75b6&style=flat)
@@ -15,7 +15,7 @@
 
 #### Find me:
 
-[![LindedIn](https://img.shields.io/badge/LinkedIn-121212?style=flat&logo=linkedin&logoColor=blue)]([https://www.linkedin.com/in/ahmed-houssam-bouzine](https://www.linkedin.com/in/issam-el-imrany-146169248/))&nbsp;[![Leetcode](https://img.shields.io/badge/LeetCode-121212?style=flat&logo=leetcode)](https://leetcode.com)
+[![LindedIn](https://img.shields.io/badge/LinkedIn-121212?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/issam-el-imrany-146169248/))&nbsp;[![Leetcode](https://img.shields.io/badge/LeetCode-121212?style=flat&logo=leetcode)](https://leetcode.com)
 
 ---
 #### My Skills:
