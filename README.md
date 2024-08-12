@@ -20,7 +20,7 @@
 ---
 #### My Skills:
 
-[Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=Python&logoColor=yellow)&nbsp;
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=Python&logoColor=yellow)&nbsp;
 ![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript&logoColor=yellow)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3&logoColor=blue)&nbsp;
 ![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
@@ -39,7 +39,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-05122A?style=flat&logo=LangChain&logoColor=yellow)&nbsp;
 ![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git&logoColor=orange)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=yellow)&nbsp;
-"""
 
 
 
@@ -55,5 +54,5 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=issamelimrany&theme=github)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AhmedHoussamBouzine" alt="AhmedHoussamBouzine" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=issamelimrany" alt="issamelimrany" /></a> </p>
 
