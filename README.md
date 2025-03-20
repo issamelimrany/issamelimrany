@@ -2,7 +2,7 @@
 
 - I'm an Aspiring **AI engineer**.
 
-- I love **AI**, **SE**, and **CP**.
+- I love **AI**, **Software**, and **problem solving**.
 
 - Beyond the world of computer science, my interests extend to **startups** and **chess**.
 
@@ -22,7 +22,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=issamelimrany&show_icons=true&locale=en)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=issamelimrany&)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=issamelimrany" alt="issamelimrany" /></a> </p>
