@@ -1,6 +1,6 @@
 # Hello, I am El Imrany Issam
 
-- I'm an Aspiring **AI engineer**.
+- I'm an **AI engineer**.
 
 - I love **AI**, **Software**, and **problem solving**.
 
@@ -11,7 +11,7 @@
 
 #### Connect with me:
 
-[![gmail](https://img.shields.io/badge/gmail-05122A?style=flat&logo=gmail)](mailto:elimrany.issam@aiac.ma)&nbsp;
+[![gmail](https://img.shields.io/badge/gmail-05122A?style=flat&logo=gmail)](mailto:elimrany.issam.job@gmail.com)&nbsp;
 
 #### Find me:
 
